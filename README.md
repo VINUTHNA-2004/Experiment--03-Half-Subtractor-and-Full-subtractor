@@ -65,7 +65,7 @@ endmodule
 ## Output:
 ## Half Subtractor:
 ## Logic symbol:
-![output]()
+![output](https://github.com/VINUTHNA-2004/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/op-1.jpg?raw=true)
 
 ## Truthtable
 ![output]()
