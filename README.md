@@ -68,27 +68,27 @@ endmodule
 ![output](https://github.com/VINUTHNA-2004/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/op-1.jpg?raw=true)
 
 ## Truthtable
-![output]()
-
+![output](https://github.com/VINUTHNA-2004/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/op-2.jpg?raw=true)
 
 ##  RTL realization
-![output]()
+![output](https://github.com/VINUTHNA-2004/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/op-3.jpg?raw=true)
+
 
 ## Timing diagram 
-![output]()
+![output](https://github.com/VINUTHNA-2004/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/op-4.jpg?raw=true)
 
 ## FULL SUBRACTOR:
 ## Logical symbol:
-![output]()
+![output](https://github.com/VINUTHNA-2004/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/op-5.jpg?raw=true)
 
 ## Truth table:
-![output]()
+![output](https://github.com/VINUTHNA-2004/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/op-6.jpg?raw=true)
 
 ## RTL realization:
-![output]()
+![output](https://github.com/VINUTHNA-2004/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/op-7.jpg?raw=true)
 
 ## Timing diagram:
-![output]()
+![output](https://github.com/VINUTHNA-2004/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/op-8.jpg?raw=true)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
